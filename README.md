@@ -8,3 +8,6 @@ This poc is writed with ***Python*** to create a bot named Consuelo, using ***Ch
 
 ### Acknowledgments
 [Chatterbot Documentation](https://chatterbot.readthedocs.io/en/stable/)
+
+
+copilot:summary
